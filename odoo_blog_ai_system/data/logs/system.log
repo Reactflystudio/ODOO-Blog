@@ -1,0 +1,166 @@
+2026-03-17 00:52:44,102 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/topstories.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:44,278 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47406779.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:44,562 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47404796.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:45,289 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47402640.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:45,563 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47401879.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:46,290 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47401809.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:46,575 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47398534.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:47,296 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47364260.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:47,577 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47404798.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:48,309 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47359010.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:48,590 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47397574.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:49,312 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47366766.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:49,603 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47353169.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:50,317 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47355100.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:50,614 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47396264.json "HTTP/1.1 200 OK"
+2026-03-17 00:52:51,361 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47398681.json "HTTP/1.1 200 OK"
+2026-03-17 02:41:51,244 [INFO] httpx: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2026-03-17 02:41:53,735 [INFO] httpx: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2026-03-17 02:41:56,226 [INFO] httpx: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2026-03-17 02:58:30,047 [INFO] httpx: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2026-03-17 03:35:45,683 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/topstories.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:45,859 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47408703.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:46,144 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47406779.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:46,877 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47408441.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:47,161 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47408205.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:47,878 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47404796.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:48,179 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47402640.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:48,882 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47401879.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:49,179 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47365299.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:49,896 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47401809.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:50,193 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47398534.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:50,897 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47363133.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:51,194 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47404798.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:51,899 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47367298.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:52,196 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47397574.json "HTTP/1.1 200 OK"
+2026-03-17 03:35:52,912 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47359010.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:15,453 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/topstories.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:15,666 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47404796.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:15,954 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47366435.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:16,668 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47402640.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:16,964 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47401809.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:17,679 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47401879.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:17,975 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47408205.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:18,694 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47360293.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:18,993 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47406779.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:19,699 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47363133.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:19,993 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47408703.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:20,713 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47408441.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:21,003 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47367298.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:21,718 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47398534.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:22,009 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47404798.json "HTTP/1.1 200 OK"
+2026-03-17 05:15:22,756 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47365299.json "HTTP/1.1 200 OK"
+2026-03-17 05:20:43,520 [INFO] httpx: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 500 Internal Server Error"
+2026-03-17 05:29:48,535 [INFO] httpx: HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 500 Internal Server Error"
+2026-03-17 05:46:14,818 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 05:46:16,082 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:23:24,148 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:23:25,376 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:26:06,969 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:29:53,460 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:30:01,394 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:30:47,339 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:34:27,122 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:38:58,083 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:41:31,400 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:41:51,287 [ERROR] fastapi: Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2026-03-17 06:45:20,301 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:20,798 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:21,366 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:22,010 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:23,281 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:23,450 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:24,648 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:24,817 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:26,083 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:26,263 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:26,874 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-17 06:45:27,509 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 16:53:13,545 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/topstories.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:13,715 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47423647.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:14,001 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47386703.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:14,723 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47378781.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:15,007 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47422759.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:15,729 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47423694.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:16,013 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47428541.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:16,740 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47422942.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:17,021 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47427027.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:17,743 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47429988.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:18,023 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47427290.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:18,748 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47426057.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:19,038 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47380714.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:19,744 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47426936.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:20,054 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47426932.json "HTTP/1.1 200 OK"
+2026-03-18 16:53:20,748 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47427208.json "HTTP/1.1 200 OK"
+2026-03-18 16:58:18,686 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 16:58:19,359 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 16:58:20,089 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 16:58:20,706 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 16:58:21,375 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 16:58:22,025 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 17:59:37,607 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 17:59:38,240 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 17:59:38,853 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 17:59:39,500 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 17:59:40,028 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 17:59:40,210 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:01,265 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:01,898 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:02,466 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:03,112 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:03,665 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:04,310 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:05,533 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:05,707 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:06,240 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:06,884 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-alpha-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:07,449 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:10:08,081 [INFO] httpx: HTTP Request: POST https://generativelanguage.googleapis.com/v1/models/imagen-3.0-fast-generate-001:predict?key=AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44 "HTTP/1.1 404 Not Found"
+2026-03-18 19:56:23,839 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/topstories.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:24,041 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47431237.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:24,354 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47386703.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:25,041 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47422759.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:25,370 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47423647.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:26,077 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47388658.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:26,393 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47427027.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:27,078 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47428650.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:27,380 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47380714.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:28,096 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47427299.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:28,404 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47429988.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:29,280 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47422942.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:29,621 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47426936.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:30,103 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47423694.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:30,579 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47427208.json "HTTP/1.1 200 OK"
+2026-03-18 19:56:31,113 [INFO] httpx: HTTP Request: GET https://hacker-news.firebaseio.com/v0/item/47428868.json "HTTP/1.1 200 OK"

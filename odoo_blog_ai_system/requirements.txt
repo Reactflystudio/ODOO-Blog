@@ -1,0 +1,14 @@
+pydantic>=2.0
+pydantic-settings>=2.0
+tenacity>=8.0
+structlog>=24.0
+httpx>=0.26
+openai>=1.0
+google-generativeai>=0.6
+diskcache>=5.6
+Pillow>=10.0
+networkx>=3.0
+pytrends>=4.9
+apscheduler>=3.10
+typer>=0.12
+rich>=13.7

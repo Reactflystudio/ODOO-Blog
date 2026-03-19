@@ -1,0 +1,20 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\ReactFlow\\Documents\\ALEXANDRE\\NEUBER\\EMPURRAO DIGITAL\\ODOO\\odoo_blog_ai_system']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [6748] using StatReload
+INFO:     Started server process [9016]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+C:\Users\ReactFlow\Documents\ALEXANDRE\NEUBER\EMPURRAO DIGITAL\ODOO\odoo_blog_ai_system\providers\gemini_provider.py:57: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+C:\Users\ReactFlow\AppData\Roaming\Python\Python314\site-packages\pydantic\main.py:464: UserWarning: Pydantic serializer warnings:
+  PydanticSerializationUnexpectedValue(Expected `int` - serialized value may not be as expected [field_name='odoo_post_id', input_value=[252], input_type=list])
+  return self.__pydantic_serializer__.to_python(
+WARNING:  StatReload detected changes in 'web\server.py'. Reloading...
+INFO:     Shutting down

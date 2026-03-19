@@ -1,0 +1,11 @@
+Installing python-multipart...
+STDOUT:
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: python-multipart in c:\users\reactflow\appdata\roaming\python\python314\site-packages (0.0.22)
+
+STDERR:
+
+[notice] A new release of pip is available: 25.3 -> 26.0.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+Return code: 0

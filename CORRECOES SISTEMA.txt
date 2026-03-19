@@ -1,0 +1,166 @@
+No painel e no sistema geral, na seção de gerar artigo aplique as modificações e corrija da melhor forma:
+
+
+
+OBJETIVO
+
+Produzir artigos úteis, claros, envolventes e otimizados para SEO sobre marketing digital político no Brasil.
+
+A agência principal citada no conteúdo deve ser sempre:
+
+Empurrão Digital
+
+-----------------------------------
+
+CONFIGURAÇÃO DOS POSTS
+
+Quantidade de posts: [ ]
+
+Temas dos posts:
+opção para descrever os temas
+-----------------------------------
+
+PÚBLICO-ALVO
+
+- Partidos políticos
+- Vereadores
+- Deputados
+- Pré-candidatos
+- Políticos em geral
+
+-----------------------------------
+
+TOM DE VOZ
+
+Profissional  
+Didático  
+Técnico  
+Inspirador
+
+-----------------------------------
+
+NÍVEL DE PROFUNDIDADE
+
+Intermediário a Avançado
+
+-----------------------------------
+
+TAMANHO DOS ARTIGOS
+
+Entre 3000 e 30000 caracteres
+
+-----------------------------------
+
+PALAVRA-CHAVE PRINCIPAL
+
+marketing digital político
+
+-----------------------------------
+
+PALAVRAS-CHAVE SECUNDÁRIAS
+
+eleições 2026  
+campanhas eleitorais  
+otimização de campanhas eleitorais online  
+engajar jovens eleitores na internet  
+
+-----------------------------------
+
+ESTRUTURA OBRIGATÓRIA DO POST
+
+Para cada post criado, gerar:
+
+1. Título principal forte e otimizado para SEO
+2. Meta Title
+3. Meta Description (até 155 caracteres)
+4. Slug otimizado para SEO
+5. Tags do artigo
+6. Conteúdo completo estruturado com:
+
+- Introdução
+- Seções com H2
+- Subtópicos com H3 quando necessário
+- Conclusão
+- FAQ utilizando acordeons
+
+-----------------------------------
+
+ESTILO DE ESCRITA
+
+- Linguagem clara, humana e natural
+- Parágrafos curtos
+- Texto escaneável
+- Uso de listas quando necessário
+- Exemplos práticos
+- Uso natural das palavras-chave
+- Texto justificado
+- Alternar entre texto normal e negrito em trechos importantes
+
+-----------------------------------
+
+IMAGENS DO ARTIGO
+
+Gerar entre **1 e 2 imagens por artigo**.
+
+Todas as imagens devem ser **geradas novas**, nunca reutilizadas.
+
+Configuração obrigatória das imagens:
+
+Utilize google Api key: "AIzaSyC5rz4mmdYSSu0cZGXbzm87J7eIi88aR44"
+
+Todas as imagens realistas no cenario Brasileiro
+
+Tema visual:
+Marketing político no Brasil — eleições 2026
+
+Tipos de imagens:
+
+Cover Image - Background Image
+
+Características:
+- Tamanho 16:9
+- Visual moderno e profissional
+
+As imagens devem sempre refletir o tema do artigo.
+
+-----------------------------------
+
+APRENDIZADO MESTRE:
+Revise e corrija todos os posts do blog, melhorando a gramática, clareza e fluidez do texto. Remova trechos sem nexo, redundantes ou que não façam sentido no contexto.
+
+Reescreva os conteúdos como um publicitário experiente, utilizando uma linguagem natural, simples, envolvente e persuasiva, evitando textos robóticos ou excessivamente formais. O objetivo é que os posts soem humanos, estratégicos e fáceis de entender, os conteudos devem ter entre 3000 e 20000 palavras.
+
+Ajuste os textos para que tenham força de comunicação, impacto e clareza, mantendo um tom profissional e estratégico, adequado para marketing político digital.
+
+Considere também o seguinte contexto institucional para fortalecer os conteúdos quando fizer sentido:
+Somos a Empurrão Digital, uma agência de marketing localizada em Goiânia, que atende clientes em todo o Brasil. Atuamos desde 2018, com experiência no atendimento a diversos candidatos e campanhas políticas. Desenvolvemos desde o planejamento estratégico digital até a gestão de tráfego pago, ajudando campanhas a crescerem e se posicionarem melhor no ambiente digital.
+
+Sempre que possível, valorize a experiência, autoridade e posicionamento da agência, mantendo a comunicação clara, estratégica e com linguagem próxima do público.
+-----------------------------------
+
+
+REGRAS IMPORTANTES
+
+- Sempre utilizar a agência **Empurrão Digital** como referência principal do serviço.
+- Sempre gerar imagens novas.
+- Nunca repetir imagens entre posts.
+- Cada imagem deve estar relacionada ao título ou seção do conteúdo.
+
+-----------------------------------
+
+FINAL DO ARTIGO
+
+Ao final de cada matéria incluir:
+
+FAQ (interativa) de 3 a 7 perguntas e respostas.
+
+Seção de compartilhamento social com botões funcionais:
+
+- Facebook
+- Instagram
+- X (Twitter)
+- LinkedIn
+- WhatsApp
+- Telegram
+
+Os botões devem aparecer como ícones clicáveis de compartilhamento.
